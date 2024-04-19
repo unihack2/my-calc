@@ -15,7 +15,7 @@
           width: 15rem;
           border-radius: 1rem;
           border: 1.5px solid black;
-          backdrop-filter: blur(2rem);
+          backdrop-filter: blur(4px);
           text-shadow: 2px 2px 15px white;
 }
 
